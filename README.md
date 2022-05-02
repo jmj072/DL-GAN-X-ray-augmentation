@@ -11,7 +11,8 @@
     - `After_GAN` : GAN 모델로 Covid-19 환자 데이터를 증강후 추가된 데이터셋
   - **Model**
     - `before_GAN.pkl` : 데이터 증강 이전 CNN 모델
-    - `GAN_EPOCH_1000.pkl` : 데이터 증강 후 CNN 모델
+    - `GAN_EPOCH_1000.pkl` : Covid-19 환자 X-ray 이미지를 Epoch 1000번 시행한 DCGAN 모델
+    - `after_GAN.pkl` : 데이터 증강 후 CNN 모델
 
   - **images** : GAN에서 생성한 결과 이미지를 epoch에 따라 저장
 
