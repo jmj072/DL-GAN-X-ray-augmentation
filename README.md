@@ -3,6 +3,7 @@
 - 의료영상 데이터는 환자 데이터가 정상 데이터 보다 적은 경우가 많으므로, 데이터 불균형을 피하기 어려움.  
 - 이를 보완하기 위해, GAN을 이용해 Fake 환자 데이터를 생성하여 데이터 불균형을 해결하고, 모델의 성능을 향상시키고자 함.  
 - 간단한 의료영상인 X-ray 이미지로 이를 시험해보고자 프로젝트를 진행하였음.
+- [[PPT 자료]](https://drive.google.com/file/d/1ydedY4Mka50gqSV0BWeCwzuCpkmydjuz/view?usp=sharing)
 <br>
 
 - 파일 구성
