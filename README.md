@@ -118,7 +118,6 @@
 
 - 부트캠프에서 처음 GAN을 배운 것이었지만, 활용해보면서 가짜 이미지를 상당히 잘 만드는 걸 느꼈다. 현미경으로 촬영한 세포 이미지와 같이 구하기 어려운 이미지에 활용하기에 참 좋은 모델일 것 같다. (찾아보니 실제로 생물학적 이미지에 활용하는 경우도 있었다.)
 
+<br>
 
-
-
-[[프로젝트 상세] 발표 PPT File 링크](https://drive.google.com/file/d/1ydedY4Mka50gqSV0BWeCwzuCpkmydjuz/view?usp=sharing)
+*프로젝트의 자세한 사항은 다음 [PPT 자료](https://drive.google.com/file/d/1ydedY4Mka50gqSV0BWeCwzuCpkmydjuz/view?usp=sharing)를 확인해주세요*
