@@ -75,7 +75,7 @@
 
 <br>
 
-## 3.2 CNN 학습
+### 3.2 CNN 학습
 - CNN 모델 구조
 
   ![image](https://user-images.githubusercontent.com/77204538/166178321-88453258-5704-42e6-a6c4-a1f750364038.png)
